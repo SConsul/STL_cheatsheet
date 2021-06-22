@@ -15,7 +15,7 @@ This is a summary of the various STL data structures and functions that are espe
 * **Referencing** [O(1) time]: `v.front()`, `v.back()`, `v[index]`, `v.at(index)`
 
 * **Resize** [O(N) time]: `v.resize(new_size)` 
-* **Reserve** [O(1) time]: `v.reserve(k)' allows for users to reserve k contiguous blocks of memory for the vector that reduces reallocation overhead. This DOES NOT initialize the k spaces.
+* **Reserve** [O(1) time]: `v.reserve(k)` allows for users to reserve k contiguous blocks of memory for the vector that reduces reallocation overhead. This DOES NOT initialize the k spaces.
 
 ### Pair
 * **Syntax**: `pair<U,V> p`
