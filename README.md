@@ -1,6 +1,6 @@
 # STL Cheat Sheet
 
-This is a summary of the various STL data structions and functions that are especially useful for competitive programming.
+This is a summary of the various STL data structures and functions that are especially useful for competitive programming.
 
 ## STL Data Structures
 
